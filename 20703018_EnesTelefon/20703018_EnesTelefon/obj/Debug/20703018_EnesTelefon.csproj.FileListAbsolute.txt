@@ -1,0 +1,11 @@
+C:\Users\enest\Desktop\20703018_EnesTelefon\20703018_EnesTelefon\bin\Debug\20703018_EnesTelefon.exe.config
+C:\Users\enest\Desktop\20703018_EnesTelefon\20703018_EnesTelefon\bin\Debug\20703018_EnesTelefon.exe
+C:\Users\enest\Desktop\20703018_EnesTelefon\20703018_EnesTelefon\bin\Debug\20703018_EnesTelefon.pdb
+C:\Users\enest\Desktop\20703018_EnesTelefon\20703018_EnesTelefon\obj\Debug\20703018_EnesTelefon.csproj.AssemblyReference.cache
+C:\Users\enest\Desktop\20703018_EnesTelefon\20703018_EnesTelefon\obj\Debug\20703018_EnesTelefon.csproj.SuggestedBindingRedirects.cache
+C:\Users\enest\Desktop\20703018_EnesTelefon\20703018_EnesTelefon\obj\Debug\_20703018_EnesTelefon.Properties.Resources.resources
+C:\Users\enest\Desktop\20703018_EnesTelefon\20703018_EnesTelefon\obj\Debug\20703018_EnesTelefon.csproj.GenerateResource.cache
+C:\Users\enest\Desktop\20703018_EnesTelefon\20703018_EnesTelefon\obj\Debug\20703018_EnesTelefon.csproj.CoreCompileInputs.cache
+C:\Users\enest\Desktop\20703018_EnesTelefon\20703018_EnesTelefon\obj\Debug\20703018_EnesTelefon.exe
+C:\Users\enest\Desktop\20703018_EnesTelefon\20703018_EnesTelefon\obj\Debug\20703018_EnesTelefon.pdb
+C:\Users\enest\Desktop\20703018_EnesTelefon\20703018_EnesTelefon\obj\Debug\_20703018_EnesTelefon.Form1.resources
