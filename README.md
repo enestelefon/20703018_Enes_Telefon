@@ -1,5 +1,5 @@
 # finalodevi-kutuphane
----------kütüphane oluşturarak araba satış listesi oluşturacağım, her bilgisini girdiğim aracı aynı zamanda da veri tabanına kaydedilmiş olacak.--------
+kütüphane oluşturarak araba satış listesi oluşturacağım, her bilgisini girdiğim aracı aynı zamanda da veri tabanına kaydedilmiş olacak.
 bu bilgiler ise öncelik olarak aracın markası, aracın üretildiği ülke, aracın kilometre durumu ve aracın kaç model olduğu olacak.
 İlk başta en üst kısımda araç ülkeleri listesi var ve o liste içine araç markaları bulunmakta. bu listelerin altında da bunların fiyatını gösterecek bilgi alanı var. Filtrelemeyi DataView özelliğine Rowfilter ekleyerek yaptım. Böylelikle textbox üzerinden filtreleme yapabilirsiniz.
 Liste içinde seçtiğimiz aracın fiyat bilgisi aşağıda yer almaktadır. Farklı listelerden birden fazla seçme imkanı buluyor. Daha sonrasında bu seçtiklerimizi listeye ekle diyerek daha geniş bir düzeyde görebiliyoruz. 
