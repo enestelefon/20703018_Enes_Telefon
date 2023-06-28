@@ -1,5 +1,5 @@
 # finalodevi-kutuphane
-<ul>kütüphane oluşturarak araba satış listesi oluşturacağım, her bilgisini girdiğim aracı aynı zamanda da veri tabanına kaydedilmiş olacak.</ul>
+<ul>Windows Form Uygulamasında C# dilini kullanarak araba satış listesi oluşturacağım, her bilgisini girdiğim aracı aynı zamanda da veri tabanına kaydedilmiş olacak.</ul>
 <ul>Bu bilgiler ise öncelik olarak aracın markası, aracın üretildiği ülke, aracın kilometre durumu ve aracın kaç model olduğu olacak.</ul>
 <ul>İlk başta en üst kısımda araç ülkeleri listesi var ve o liste içine araç markaları bulunmakta. bu listelerin altında da bunların fiyatını gösterecek bilgi alanı var.</ul>
 <ul>Filtrelemeyi _DataView_ özelliğine _Rowfilter_ ekleyerek yaptım. Böylelikle textbox üzerinden filtreleme yapabilirsiniz.</ul>
